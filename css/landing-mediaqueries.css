@@ -1,0 +1,1177 @@
+@media (min-width: 320px) and (max-width: 359px) {
+    .pushleft {
+      justify-content: flex-start;
+    }
+    .logoimg1 {
+      width: 45px;
+      height: 40px;
+      padding: 10px;
+    }
+    .logoimg2 {
+      width: 45px;
+      height: 45px;
+      padding: 10px;
+    }
+    .logoimg3 {
+      width: 45px;
+      padding: 10px;
+    }
+    .raiMediaLogo {
+      padding-right: 15px;
+      font-size: 12px;
+      display: none;
+    }
+    .social-buttons2 {
+        display: none;
+    }
+    .distablem0auto {
+      margin-top: 15px;
+    }
+    .getInfoForm {
+      width: 300px;
+      top: -100px;
+      left: 3%;
+    }
+    .formTitle {
+      font-size: 16px !important;
+    }
+    .leadBtn-container {
+      height: 500px;
+    }
+    .leadtext {
+      color: #111;
+      font-size: 40px;
+      text-align: center;
+      position: absolute;
+      top: 45%;
+      left: 5%;
+      right: 0%;
+      z-index: 998;
+    }
+    .tagtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      font-size: 21.5px;
+      top: 54%;
+      left: 5%;
+      right: 0%;
+      z-index: 998;
+    }
+    .mediaRaiLogo {
+      width: 150px;
+      position: absolute;
+      top: 20%;
+      left: 25%;
+    }
+    .leadtext2 {
+      text-align: center;
+      position: absolute;
+      top: 42%;
+      left: 6%;
+      right: 0%;
+      z-index: 995;
+    }
+    .counterTitle {
+      font-size: 16px;
+      margin: 0;
+      padding: 10px;
+      font-weight: bold;
+  }
+  .contactBtn {
+    position: relative;
+    border: 2px solid #fff;
+    padding: 2px 5px;
+    z-index: 1000;
+    line-height: 30px;
+    margin-left: 0 !important;
+    top: -59px !important;
+    left: 50%;
+  }
+  #video {
+    width: 320px; 
+    height: 501px;
+  }
+  .videoPitchX {
+    position:absolute;
+    right: 20px;
+    top: 40px;
+  }
+  #raivideo {
+    width: 320px; 
+    height: 501px;
+  }
+  .raivideoPitchX {
+    position:absolute;
+    right: 20px;
+    top: 40px;
+  }
+  .bluelagoon {
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .scrollBtn {
+    top: -105px;
+    left: 87%;
+    width: 20px;
+    position: relative;
+    -webkit-animation: bounce 2s infinite 2s;
+    animation: bounce 2s infinite 2s;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    transform: scale(1);
+    }
+    .copyright {
+      font-size: 12px;
+    }
+    .mediaEmail, .mediaPhone {
+      display: none;
+    }
+    .col-lg-6.mainblue {
+      order: 2;
+      -webkit-order: 2;
+    }
+    .col-lg-6.leadBtn-container.text-center {
+      order: 1;
+      -webkit-order: 1;
+    }
+    .displayNoneClass {
+      visibility: visible !important;
+      text-align: center;
+    }
+    .databaseicon {
+      width: 220px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 19%;
+      left: 0.7%;
+    }
+    .databaseBtn {
+      font-size: 16px;
+      font-weight: 500;
+    }
+    .raimediaBtn {
+      font-size: 14px;
+    }
+    .raiBtn {
+      font-size: 14px;
+      font-weight: 500;
+    }
+    #raivideoBtn {
+      font-size: 14px;
+      margin-left: 10px;
+    }
+    .btnContainer {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 19%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .btnContainer2 {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 11%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .btnContainer3 {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 21%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .button {
+      padding: 18px 24px;
+      border-radius: 50px;
+      font-weight: 500;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      -ms-border-radius: 50px;
+      -o-border-radius: 50px;
+      position: relative;
+    }
+    #videoBtn {
+      padding: 18px 24px;
+      font-size: 14px;
+      margin-left: 10px;
+    }
+    .raiIcon {
+      width: 100px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 10%;
+      left: -10px;
+    }
+    .raiMediaIcon {
+      width: 100px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 17%;
+      left: -10px;
+    }
+    .raih2 {
+      font-size: 30px;
+      top: 19%;
+    }
+    .raih22 {
+      top: 10%;
+      font-size: 30px;
+    }
+    .raih23 {
+      top: 20%;
+      font-size: 30px;
+    }
+    .raimedia {
+      background: url('../img/mediadude.jpg') no-repeat;
+      background-position: 0 0px;
+      background-size: cover;
+    }
+    .raiad {
+      background: url('../img/radioGirlred.jpg') no-repeat;
+      background-position: -80px 0px;
+      background-size: cover;
+      }
+  }
+  /* @media (max-width: 375px) {
+    .getInfoForm {
+      width: 325px;
+      top: -100px;
+      left: 7% !important;
+    }
+  }
+  @media (max-width: 411px) {
+    .getInfoForm {
+      width: 325px;
+      top: -100px;
+      left: 12% !important;
+    }
+  } */
+  /* @media (max-width: 414px) {
+    .getInfoForm {
+      width: 325px;
+      top: -100px;
+      left: 12% !important;
+    }
+  } */
+  @media (min-width: 360px) and (max-width: 499px) {
+    .pushleft {
+      justify-content: flex-start;
+    }
+    .logoimg1 {
+      width: 45px;
+      height: 40px;
+      padding: 10px;
+    }
+    .logoimg2 {
+      width: 45px;
+      height: 45px;
+      padding: 10px;
+    }
+    .logoimg3 {
+      width: 45px;
+      padding: 10px;
+    }
+    .raiMediaLogo {
+      padding-right: 15px;
+      font-size: 12px;
+      display: none;
+    }
+    .social-buttons2 {
+        display: none;
+    }
+    .distablem0auto {
+      margin-top: 15px;
+    }
+    .getInfoForm {
+      width: 325px;
+      top: -100px;
+      left: 5%;
+    }
+    .leadBtn-container {
+      height: 500px;
+    }
+    .leadtext {
+      color: #111;
+      font-size: 40px;
+      text-align: center;
+      position: absolute;
+      top: 45%;
+      left: 5%;
+      right: 0%;
+      z-index: 998;
+    }
+    .tagtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      font-size: 21.5px;
+      top: 54%;
+      left: 5%;
+      right: 0%;
+      z-index: 998;
+    }
+    .mediaRaiLogo {
+      width: 150px;
+      position: absolute;
+      top: 20%;
+      left: 25%;
+    }
+    .leadtext2 {
+      text-align: center;
+      position: absolute;
+      top: 42%;
+      left: 6%;
+      right: 0%;
+      z-index: 995;
+    }
+    .counterTitle {
+      font-size: 16px;
+      margin: 0;
+      padding: 10px;
+      font-weight: bold;
+  }
+  .contactBtn {
+    position: relative;
+    border: 2px solid #fff;
+    padding: 2px 5px;
+    z-index: 1000;
+    line-height: 30px;
+    margin-left: 0 !important;
+    top: -59px !important;
+    left: 50%;
+  }
+  #video {
+    width: 360px; 
+    height: 501px;
+  }
+  .videoPitchX {
+    position:absolute;
+    right: 10px;
+    top: 150px;
+  }
+  #raivideo {
+    width: 360px; 
+    height: 501px;
+  }
+  .raivideoPitchX {
+    position:absolute;
+    right: 10px;
+    top: 150px;
+  }
+  .bluelagoon {
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .scrollBtn {
+    top: -105px;
+    left: 87%;
+    width: 20px;
+    position: relative;
+    -webkit-animation: bounce 2s infinite 2s;
+    animation: bounce 2s infinite 2s;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    transform: scale(1);
+    }
+    .copyright {
+      font-size: 14px;
+    }
+    .mediaEmail, .mediaPhone {
+      display: none;
+    }
+    .col-lg-6.mainblue {
+      order: 2;
+      -webkit-order: 2;
+    }
+    .col-lg-6.leadBtn-container.text-center {
+      order: 1;
+      -webkit-order: 1;
+    }
+    .displayNoneClass {
+      visibility: visible !important;
+      text-align: center;
+    }
+    .databaseicon {
+      width: 220px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 19%;
+      left: 0.7%;
+    }
+    .databaseBtn {
+      font-size: 16px;
+      font-weight: 500;
+    }
+    .raimediaBtn {
+      font-size: 16px;
+      margin-left: -15px;
+    }
+    .raiBtn {
+      font-size: 16px;
+      font-weight: 500;
+      margin-left: -12px !important;
+    }
+    #raivideoBtn {
+      font-size: 16px;
+      margin-left: 10px;
+    }
+    .btnContainer {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 19%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .btnContainer2 {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 11%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .btnContainer3 {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 21%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .button {
+      padding: 18px 34px;
+      border-radius: 50px;
+      font-weight: 500;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      -ms-border-radius: 50px;
+      -o-border-radius: 50px;
+      position: relative;
+    }
+    #videoBtn {
+      padding: 18px 24px;
+      font-size: 16px;
+      margin-left: 10px;
+    }
+    .raiIcon {
+      width: 100px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 10%;
+      left: -10px;
+    }
+    .raiMediaIcon {
+      width: 100px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 17%;
+      left: -20px;
+    }
+    .raih2 {
+      font-size: 30px;
+      top: 19%;
+    }
+    .raih22 {
+      top: 10%;
+      font-size: 30px;
+    }
+    .raih23 {
+      top: 20%;
+      font-size: 30px;
+    }
+    .raimedia {
+      background: url('../img/mediadude.jpg') no-repeat;
+      background-position: 0 0px;
+      background-size: cover;
+    }
+    .raiad {
+      background: url('../img/radioGirlred.jpg') no-repeat;
+      background-position: -80px 0px;
+      background-size: cover;
+      }
+  }
+  @media (min-width: 361px) and (max-width: 375px) {
+    .pushleft {
+      justify-content: flex-start;
+    }
+    .logoimg1 {
+      width: 45px;
+      height: 40px;
+      padding: 10px;
+    }
+    .logoimg2 {
+      width: 45px;
+      height: 45px;
+      padding: 10px;
+    }
+    .logoimg3 {
+      width: 45px;
+      padding: 10px;
+    }
+    .raiMediaLogo {
+      padding-right: 15px;
+      font-size: 12px;
+      display: none;
+    }
+    .social-buttons2 {
+        display: none;
+    }
+    .distablem0auto {
+      margin-top: 15px;
+    }
+    .getInfoForm {
+      width: 325px;
+      top: -150px;
+      left: 12%;
+    }
+    .leadBtn-container {
+      height: 500px;
+    }
+    .leadtext {
+      color: #111;
+      font-size: 40px;
+      text-align: center;
+      position: absolute;
+      top: 45%;
+      left: 5%;
+      right: 0%;
+      z-index: 998;
+    }
+    .tagtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      font-size: 21.5px;
+      top: 54%;
+      left: 5%;
+      right: 0%;
+      z-index: 998;
+    }
+    .mediaRaiLogo {
+      width: 150px;
+      position: absolute;
+      top: 20%;
+      left: 25%;
+    }
+    .leadtext2 {
+      text-align: center;
+      position: absolute;
+      top: 42%;
+      left: 6%;
+      right: 0%;
+      z-index: 995;
+    }
+    .counterTitle {
+      font-size: 16px;
+      margin: 0;
+      padding: 10px;
+      font-weight: bold;
+  }
+  .contactBtn {
+    position: relative;
+    border: 2px solid #fff;
+    padding: 2px 5px;
+    z-index: 1000;
+    line-height: 30px;
+    margin-left: 0 !important;
+    top: -59px !important;
+    left: 50%;
+  }
+  #video {
+    width: 768px; 
+    height: 501px;
+  }
+  .videoPitchX {
+    position:absolute;
+    right: 20px;
+    top: 40px;
+  }
+  #raivideo {
+    width: 768px; 
+    height: 501px;
+  }
+  .raivideoPitchX {
+    position:absolute;
+    right: 20px;
+    top: 40px;
+  }
+  .bluelagoon {
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .scrollBtn {
+    top: -105px;
+    left: 87%;
+    width: 20px;
+    position: relative;
+    -webkit-animation: bounce 2s infinite 2s;
+    animation: bounce 2s infinite 2s;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    transform: scale(1);
+    }
+    .copyright {
+      font-size: 14px;
+    }
+    .mediaEmail, .mediaPhone {
+      display: none;
+    }
+    .col-lg-6.mainblue {
+      order: 2;
+      -webkit-order: 2;
+    }
+    .col-lg-6.leadBtn-container.text-center {
+      order: 1;
+      -webkit-order: 1;
+    }
+    .displayNoneClass {
+      visibility: visible !important;
+      text-align: center;
+    }
+    .databaseicon {
+      width: 220px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 19%;
+      left: 0.7%;
+    }
+    .databaseBtn {
+      font-size: 16px;
+      font-weight: 500;
+    }
+    .raimediaBtn {
+      font-size: 16px;
+    }
+    .raiBtn {
+      font-size: 16px;
+      font-weight: 500;
+    }
+    #raivideoBtn {
+      font-size: 16px;
+    }
+    .btnContainer {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 19%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .btnContainer2 {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 11%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .btnContainer3 {
+      width: 100%;
+      height: 75px;
+      position: relative;
+      top: 21%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+    }
+    .button {
+      padding: 18px 34px;
+      border-radius: 50px;
+      font-weight: 500;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      -ms-border-radius: 50px;
+      -o-border-radius: 50px;
+      position: relative;
+    }
+    #videoBtn {
+      padding: 18px 24px;
+      font-size: 16px;
+    }
+    .raiIcon {
+      width: 100px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 10%;
+      left: -10px;
+    }
+    .raiMediaIcon {
+      width: 100px;
+      position: relative;
+      display: block;
+      margin: auto;
+      top: 17%;
+      left: -10px;
+    }
+    .raih2 {
+      font-size: 30px;
+      top: 19%;
+    }
+    .raih22 {
+      top: 10%;
+      font-size: 30px;
+    }
+    .raih23 {
+      top: 20%;
+      font-size: 30px;
+    }
+    .raimedia {
+      background: url('../img/mediadude.jpg') no-repeat;
+      background-position: 0 0px;
+      background-size: cover;
+    }
+    .raiad {
+      background: url('../img/radioGirlred.jpg') no-repeat;
+      background-position: -80px 0px;
+      background-size: cover;
+      }
+  }
+  @media (min-width: 500px) and (max-width: 768px) {
+    .logoimg1 {
+        width: 45px;
+        height: 40px;
+        padding: 10px;
+      }
+      .logoimg2 {
+        width: 45px;
+        height: 45px;
+        padding: 10px;
+      }
+      .logoimg3 {
+        width: 45px;
+        padding: 10px;
+      }
+      .raiMediaLogo {
+        padding-right: 15px;
+        font-size: 12px;
+        display: none;
+      }
+      .social-buttons2 {
+          display: none;
+      }
+      .distablem0auto {
+        margin-top: 15px;
+      }
+      .col-lg-6.mainblue {
+        order: 2;
+        -webkit-order: 2;
+      }
+      .col-lg-6.leadBtn-container.text-center {
+        order: 1;
+        -webkit-order: 1;
+      }
+      .getInfoForm {
+        width: 325px;
+        top: -60px;
+        left: 30% !important;
+        right: 5%;
+      }
+      .leadBtn-container {
+        height: 500px;
+      }
+      .leadtext {
+        color: #111;
+        font-size: 40px;
+        text-align: center;
+        position: absolute;
+        top: 60%;
+        left: 5%;
+        right: 0%;
+        z-index: 998;
+      }
+      .tagtext {
+        color: #111;
+        text-align: center;
+        position: absolute;
+        font-size: 21.5px;
+        top: 68%;
+        left: 5%;
+        right: 0%;
+        z-index: 998;
+      }
+      .mediaRaiLogo {
+        width: 150px;
+        position: absolute;
+        top: 35%;
+        left: 40%;
+      }
+      .leadtext2 {
+        text-align: center;
+        position: absolute;
+        top: 42%;
+        left: 6%;
+        right: 0%;
+        z-index: 995;
+      }
+      .counterTitle {
+        font-size: 16px;
+        margin: 0;
+        padding: 10px;
+        font-weight: bold;
+    }
+    .contactBtn {
+      position: relative;
+      border: 2px solid #fff;
+      padding: 2px 5px;
+      z-index: 1000;
+      line-height: 30px;
+    }
+    #video {
+      width: 768px; 
+      height: 501px;
+    }
+    .videoPitchX {
+      position:absolute;
+      right: 20px;
+      top: 40px;
+    }
+    #raivideo {
+      width: 768px; 
+      height: 501px;
+    }
+    .raivideoPitchX {
+      position:absolute;
+      right: 20px;
+      top: 40px;
+    }
+    .bluelagoon {
+      background-position: 0px -200px;
+    }
+    .scrollBtn {
+      top: -49px;
+      left: 70%;
+      width: 20px;
+      position: relative;
+      -webkit-animation: bounce 2s infinite 2s;
+      animation: bounce 2s infinite 2s;
+      -webkit-transition: all .2s ease-in;
+      transition: all .2s ease-in;
+      transform: scale(1);
+    }
+  }
+  /* @media (max-width: 800px) {
+    .pushleft {
+      padding-left: 1%;
+    }
+    .logoimg1 {
+      width: 45px;
+      height: 40px;
+      padding: 10px;
+    }
+    .logoimg2 {
+      width: 45px;
+      height: 45px;
+      padding: 10px;
+    }
+    .logoimg3 {
+      width: 45px;
+      padding: 10px;
+    }
+    .raiMediaLogo {
+      padding-right: 12px;
+      font-size: 12px;
+    }
+    .getInfoForm {
+      width: 325px;
+      top: 30%;
+      left: 30% !important;
+    }
+    .col-sm-3.disflex2.shadow-col {
+      max-width: 100px !important;
+    }
+    .mediaRaiLogo {
+      width: 150px;
+      position: absolute;
+      top: 39%;
+      left: 22% !important;
+    }
+    .leadtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      top: 54%;
+      font-size: 50px;
+      left: 0%;
+      right: 12% !important;
+      z-index: 998;
+    }
+    .tagtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      font-size: 27px;
+      top: 60.5%;
+      left: 0%;
+      right: 12% !important;
+      z-index: 998;
+    }
+    .scrollBtn {
+      top: -60px;
+      left: 100% !important;
+      width: 20px;
+      position: relative;
+      -webkit-animation: bounce 2s infinite 2s;
+      animation: bounce 2s infinite 2s;
+      -webkit-transition: all .2s ease-in;
+      transition: all .2s ease-in;
+      transform: scale(1);
+    }
+  } */
+  @media (min-width: 769px) and (max-width: 992px) {
+    .pushleft {
+      padding-left: 2%;
+    }
+    .logoimg1 {
+      width: 45px;
+      height: 40px;
+      padding: 10px;
+    }
+    .logoimg2 {
+      width: 45px;
+      height: 45px;
+      padding: 10px;
+    }
+    .logoimg3 {
+      width: 45px;
+      padding: 10px;
+    }
+    .raiMediaLogo {
+      padding-right: 15px;
+      font-size: 12px;
+    }
+    .social-buttons2 {
+        display: none;
+    }
+    .distablem0auto {
+      margin-top: 15px;
+    }
+    .getInfoForm {
+      width: 325px;
+      top: 30%;
+      left: 30%;
+    }
+    .leadtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      top: 54%;
+      font-size: 50px;
+      left: 0%;
+      right: 10%;
+      z-index: 998;
+    }
+    .tagtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      font-size: 27px;
+      top: 60.5%;
+      left: 0%;
+      right: 10%;
+      z-index: 998;
+    }
+    .mediaRaiLogo {
+      width: 150px;
+      position: absolute;
+      top: 39%;
+      left: 24%;
+    }
+    .counterTitle {
+      font-size: 18px;
+      margin: 0;
+      padding: 10px;
+      font-weight: bold;
+    }
+    .contactBtn {
+      position: relative;
+      border: 2px solid #fff;
+      padding: 2px 5px;
+      z-index: 1000;
+      line-height: 30px;
+    }
+    #video {
+      width: 992px; 
+      height: 601px;
+    }
+    .videoPitchX {
+      position:absolute;
+      right: 40px;
+      top: 30px;
+    }
+    #raivideo {
+      width: 992px; 
+      height: 601px;
+    }
+    .raivideoPitchX {
+      position:absolute;
+      right: 20px;
+      top: 30px;
+    }
+    .scrollBtn {
+      top: -49px;
+      left: 75%;
+      width: 20px;
+      position: relative;
+      -webkit-animation: bounce 2s infinite 2s;
+      animation: bounce 2s infinite 2s;
+      -webkit-transition: all .2s ease-in;
+      transition: all .2s ease-in;
+      transform: scale(1);
+    }
+    .bluelagoon {
+      background-position: 0px -200px;
+    }
+  }
+  @media (min-width: 993px) and (max-width: 1200px) {
+    .logoimg1 {
+      width: 45px;
+      height: 40px;
+      padding: 10px;
+    }
+    .logoimg2 {
+      width: 45px;
+      height: 45px;
+      padding: 10px;
+    }
+    .logoimg3 {
+      width: 45px;
+      padding: 10px;
+    }
+    .raiMediaLogo {
+      padding-right: 15px;
+      font-size: 14px;
+    }
+    .getInfoForm {
+      width: 325px;
+      top: 30%;
+      left: 40%;
+    }
+    .leadtext {
+      color: #111;
+      font-size: 50px;
+      text-align: center;
+      position: absolute;
+      top: 55%;
+      left: 0%;
+      right: 40%;
+      z-index: 998;
+    }
+    .tagtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      font-size: 27px;
+      top: 61%;
+      left: 0%;
+      right: 40%;
+      z-index: 998;
+    }
+    .mediaRaiLogo {
+      width: 150px;
+      position: absolute;
+      top: 40%;
+      left: 12%;
+    }
+    .leadtext2 {
+      text-align: center;
+      position: absolute;
+      top: 61%;
+      left: 0%;
+      right: 20%;
+      z-index: 995;
+    }
+    #video {
+      width: 1200px; 
+      height: 701px;
+    }
+    .videoPitchX {
+      position:absolute;
+      right: 40px;
+      top: 30px;
+    }
+    .scrollBtn {
+      top: -60px;
+      left: 80%;
+      width: 20px;
+      position: relative;
+      -webkit-animation: bounce 2s infinite 2s;
+      animation: bounce 2s infinite 2s;
+      -webkit-transition: all .2s ease-in;
+      transition: all .2s ease-in;
+      transform: scale(1);
+    }
+    .bluelagoon {
+      background-position: 0px -200px;
+    }
+  }
+  @media (min-width: 1201px) and (max-width: 1808px) {
+    .raiMediaLogo {
+      padding-right: 15px;
+      font-size: 14px;
+    }
+    .leadtext {
+      color: #111;
+      font-size: 50px;
+      text-align: center;
+      position: absolute;
+      top: 51%;
+      left: 0%;
+      right: 50%;
+      z-index: 998;
+    }
+    .tagtext {
+      color: #111;
+      text-align: center;
+      position: absolute;
+      font-size: 27px;
+      top: 57%;
+      left: 0%;
+      right: 50%;
+      z-index: 998;
+    }
+    .mediaRaiLogo {
+      width: 150px;
+      position: absolute;
+      top: 35%;
+      left: 12%;
+    }
+    .leadtext2 {
+      text-align: center;
+      position: absolute;
+      top: 60%;
+      left: 0%;
+      right: 45%;
+      z-index: 995;
+    }
+  }
