@@ -3,7 +3,7 @@ html, body {
   overflow-y: hidden;
   font-family: 'Arimo', sans-serif;
   width: 100%;
-  min-width: 400px;
+  
   max-height: 100%;
   
 }
@@ -23,7 +23,7 @@ html, body {
 }
 .midcontainer{
   width: 100%;
-  height: 927px;
+  height: 100%;
   margin-left: 12.5%;
   
 }
